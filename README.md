@@ -68,5 +68,6 @@ Match the register output of each instruction according to the output observed o
 26. bltu
 27. bgeu
 
-
+# **Circuit Snapshot**
+![Risc-V Snapshot](riscv.png)
 
